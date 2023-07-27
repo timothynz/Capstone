@@ -14,7 +14,7 @@ argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 astunparse==1.6.3
 async-timeout==4.0.2
-atomic writes==1.4.0
+atomicwrites==1.4.0
 Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
 autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
