@@ -1,3 +1,4 @@
+flask==56.0.1
 gunicorn==21.2.0
 contractions==0.1.73
 joblib==1.2.0
@@ -13,3 +14,4 @@ spacy==3.5.3
 tensorflow==2.11.0
 torch==1.12.1
 wordcloud==1.9.2
+
