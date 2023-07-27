@@ -1,5 +1,4 @@
 contractions==0.1.73
-gensim==4.3.0
 joblib==1.2.0
 keras==2.13.1
 lightgbm==3.3.5
