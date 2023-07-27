@@ -2,7 +2,7 @@ contractions==0.1.73
 joblib==1.2.0
 keras==2.11.0
 lightgbm==3.3.5
-matplotlib==3.7.0
+matplotlib==3.5.3
 nltk==3.7
 numpy==1.23.5
 pandas==1.5.3
