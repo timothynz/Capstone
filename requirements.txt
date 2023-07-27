@@ -1,4 +1,4 @@
-flask==56.0.1
+flask==2.2.5
 gunicorn==21.2.0
 contractions==0.1.73
 joblib==1.2.0
